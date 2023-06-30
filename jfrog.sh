@@ -1,4 +1,4 @@
-server=http://13.233.164.118:8082/artifactory
+server=http://43.205.120.18:8082/artifactory
 repo=libs-snapshot-local
 
 userName=admin
